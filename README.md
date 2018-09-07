@@ -5,3 +5,4 @@ simple AI, terrain, and an advanced control system.
 
 ## Commit List
 * TW01 Game Design Document (GDD)
+* TW02 Cloning Github Repo into Sourcetree
